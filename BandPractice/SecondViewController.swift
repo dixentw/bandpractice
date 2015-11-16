@@ -42,6 +42,7 @@ class SecondViewController: UIViewController {
     }
     @IBAction func DoRecord(sender: UIButton) {
         NSLog("hello words!!!!")
+        NSLog("hello words!!!!~~~~")
         self.recorder.record()
     }
     
